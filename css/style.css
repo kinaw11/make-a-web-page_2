@@ -1,0 +1,31 @@
+
+/*this was to change the background color*/
+body {
+  background-color: pink;
+}
+
+body{
+  font-family: Helvetica;
+}
+
+h1{
+  color: red;
+}
+/*changed to order lists to purple*/ 
+ol{
+  color:purple;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  color:purple
+}
+/*change to black for a pop*/
+h3{
+  Color:black;
+}
+h1,h2,h3 {font-family: Arial;
+           font-size:200%
+}
